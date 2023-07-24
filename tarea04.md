@@ -28,10 +28,19 @@ De manera general los pasos a seguir son:
 ![IMAGEN_2](img/2.JPG)
 2. Realizar alguna modificación (o inclusión de un archivo) al código base existente.
 ![IMAGEN_3](img/3.JPG)
-![IMAGEN_3](img/4.JPG)
-a. Confirmando los cambios.
-3. Solicitar una PR para la integración de cambios en el repositorio bifurcado (el original).
+![IMAGEN_4](img/4.JPG)
+![IMAGEN_5](img/5.JPG)
 
+a. Confirmando los cambios.
+
+![IMAGEN_6](img/6.JPG)
+![IMAGEN_7](img/7.JPG)
+![IMAGEN_8](img/8.JPG)
+3. Solicitar una PR para la integración de cambios en el repositorio bifurcado (el original).
+![IMAGEN_9](img/9.JPG)
+![IMAGEN_10](img/10.JPG)
+![IMAGEN_11](img/11.JPG)
+![IMAGEN_12](img/12.JPG)
 ## Entregable                                             
 [Indice](#indice)                                                                
 
@@ -39,8 +48,15 @@ a. Confirmando los cambios.
 
 Dos instantáneas (capturas de pantalla formato .jpg o .png):
 - **Una de la “Pull Request” en la que se aprecien los repositorios y ramas origen y destino.**
-
+![IMAGEN_10](img/10.JPG)
 - **Una de la aceptación del “merge”.**
+![IMAGEN_13](img/13.JPG)
+![IMAGEN_14](img/14.JPG)
+![IMAGEN_15](img/15.JPG)
+![IMAGEN_16](img/16.JPG)
+![IMAGEN_17](img/17.JPG)
+![IMAGEN_18](img/18.JPG)
+![IMAGEN_19](img/19.JPG)
 
 ## Datos Alumno                                             
 [Indice](#indice)                                                                
